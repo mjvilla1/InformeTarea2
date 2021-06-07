@@ -12,8 +12,8 @@ Objetivo General
      y  diferenciar   entre   conductores   que   cumplen   la   Ley   de Ohm.
      -Examinar en una resistencia conectada a un circuito de corriente continuala relación entre 
      el voltaje y la intensidad de corriente.
-     -Expresar correctamente el valor de resistencias eléctricas usando elcódigo de colores.
-     -Aplicar la Ley de Ohm, para el cálculode magnitudes eléctricas en un circuitode corriente continua.
+     -Expresar correctamente el valor de resistencias eléctricas usando el código de colores.
+     -Aplicar la Ley de Ohm, para el cálculo de magnitudes eléctricas en un circuito de corriente continua.
      
 # 2. Marco Teórico
 
