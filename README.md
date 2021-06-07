@@ -17,7 +17,7 @@ Objetivo General
      
 # 2. Marco Teórico
 
-![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Energia.png)
+![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Pontencia%20mc.png)
 
 ![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Energia.png)
 
