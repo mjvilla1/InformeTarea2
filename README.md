@@ -19,7 +19,9 @@ Objetivo General
 
 # 3. Explicación y Resolución
 
-16. 
+16. ¿Cuánta corriente será capaz de conducir un alambre de cobre AWG 36?
+Un alambre de cobre AWG 36, sería capaz de resistir 414.8, no hay datos de conducción de corriente.
+
 # 4. Video
 # 5. Conclusiones
 #6.  Bibliografia
