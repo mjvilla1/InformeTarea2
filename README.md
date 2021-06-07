@@ -17,6 +17,10 @@ Objetivo General
      
 # 2. Marco Teórico
 
+![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Energia.png)
+
+![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Energia.png)
+
 # 3. Explicación y Resolución
 
 16. ¿Cuánta corriente será capaz de conducir un alambre de cobre AWG 36?
