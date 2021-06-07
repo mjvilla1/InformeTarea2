@@ -9,7 +9,7 @@ Objetivo General
     
     Objetivos Específicos
      - Describir   en   diferentes   instrumentos   su   resistencia   eléctricacorrespondiente 
-     y  diferenciar   entre   conductores   que   cumplen   la   Ley   de Ohm
+     y  diferenciar   entre   conductores   que   cumplen   la   Ley   de Ohm.
      -Examinar en una resistencia conectada a un circuito de corriente continuala relación entre 
      el voltaje y la intensidad de corriente.
      -Expresar correctamente el valor de resistencias eléctricas usando elcódigo de colores.
