@@ -140,7 +140,7 @@ Pent =Psal+Pperdidas Psal= 1100W - 190W =910W
 
 Pent=V*I = 120V * 15 A= 1800W
 
-Psal= (η*Pent)/100% = 1602W
+Psal= (η*Pent)/100% = 1602W = 2.14hp
  
 61. El sistema de potencia/control de un coche eléctrico se compone de un paquete de baterías incluido de 48 V, una unidad de control/manejo electrónica y el motor (figura 4-40). Si se requieren 180 A de las baterías ¿cuántos caballos de potencia se suministran a la tracción del vehículo? 
 
