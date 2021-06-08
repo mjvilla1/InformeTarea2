@@ -227,6 +227,14 @@ Los dos valores son distintos por que en la grafica nos muestra como incrementa 
 
 ![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Figura%204-33.jpeg)
 
+a. E = 40 V, R = 20 Ω
+
+d. E = 10 V, R =2.5 MΩ
+
+c. V = 200 V, R = 40 k
+
+e. E = 7.5 V, R = 2.5 Ω 103 
+
 
 71. Haga clic en Coloca (Place) en la barra de menú; haga clic en Componente (Component); de la lista de Grupo (Group), seleccione Básico (Basic), desplácese hacia abajo y haga clic en Interruptor (Switch); seleccione SPDT, entonces haga clic en OK. Coloque en la pantalla y haga doble clic en su símbolo. Cuando la caja de diálogo se abra, seleccione la etiqueta Valor (Value), tecleé la letra A y haga clic en OK. [Esto reetiqueta el interruptor como (A). Presione la tecla A varias veces y observe que el interruptor abre y cierra.] Seleccione un segundo interruptor y etiquételo (B). Agregue una fuente de cd de 12 V y una lámpara. Para agregar la lámpara haga clic en Coloca/Componente (Place/Component) y a partir de la caja de Grupo (Group),seleccione Lámpara_virtual (Virtual_lamp). Arme el circuito de la figura 2-27, opere los interruptores y determine si consiguió exitosamente el control de dos vías. 
 
