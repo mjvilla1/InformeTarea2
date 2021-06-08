@@ -113,6 +113,9 @@ conductancia=1/ (104/1000)*3280.82 = 2.93mS
 
 Capitulo 4
 
+![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%2029_2.PNG)
+![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%2031_33_2.PNG)
+
 51. Mientras el dispositivo del problema 50 opera, otras dos cargas también lo hacen:
 a. un calentador de 4 kW, de forma continua,
 b. un calentador de 3.6 kW 12 horas al día. 
@@ -140,7 +143,7 @@ Pent =Psal+Pperdidas Psal= 1100W - 190W =910W
 
 Pent=V*I = 120V * 15 A= 1800W
 
-Psal= (η*Pent)/100% = 1602W = 2.14hp
+Psal= (η*Pent)/100% = 1602W
  
 61. El sistema de potencia/control de un coche eléctrico se compone de un paquete de baterías incluido de 48 V, una unidad de control/manejo electrónica y el motor (figura 4-40). Si se requieren 180 A de las baterías ¿cuántos caballos de potencia se suministran a la tracción del vehículo? 
 
@@ -167,6 +170,6 @@ de nuevo haga clic. La lectura del cursor está indicada en la caja en la esquin
 b. El cursor se puede posicionar usado el ratón o las teclas de flecha izquierda y derecha. Posicione el cursor en 2 V y lea la corriente. Verifíquelo mediante la ley de Ohm. Coteje el valor en otros puntos tanto positivos como negativos.
 # 4. Video
 # 5. Conclusiones
-# 6.Bibliografi 
+# 6.Bibliografia 
 
 Robbins, A. H. (2008). Análisis de Circuitos Teoria y Practica. Santa Fe-Mexico: Cengage Learning.
