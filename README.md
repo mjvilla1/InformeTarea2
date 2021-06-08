@@ -111,4 +111,6 @@ de nuevo haga clic. La lectura del cursor está indicada en la caja en la esquin
 b. El cursor se puede posicionar usado el ratón o las teclas de flecha izquierda y derecha. Posicione el cursor en 2 V y lea la corriente. Verifíquelo mediante la ley de Ohm. Coteje el valor en otros puntos tanto positivos como negativos.
 # 4. Video
 # 5. Conclusiones
-#6.  Bibliografia
+# 6.Bibliografi 
+
+Robbins, A. H. (2008). Análisis de Circuitos Teoria y Practica. Santa Fe-Mexico: Cengage Learning.
