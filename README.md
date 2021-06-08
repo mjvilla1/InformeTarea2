@@ -126,6 +126,8 @@ conductancia=1/ (104/1000)*3280.82 = 2.93mS
 
 Capitulo 4
 
+![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%201%20Cap%204.PNG)
+
 ![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%201-%20Cap%204.PNG)
 
 ![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%201---%20Cap%204.PNG)
