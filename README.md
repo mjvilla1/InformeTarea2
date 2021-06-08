@@ -226,6 +226,9 @@ a. Haga clic en Trazar (Trace) en la barra de menú, seleccione Cursor, haga
 clic en Despliegue (Display), entonces posicione el cursor en la gráfica y de nuevo haga clic. La lectura del cursor está indicada en la caja en la esquina inferior derecha de la pantalla.
 b. El cursor se puede posicionar usado el ratón o las teclas de flecha izquierda y derecha. Posicione el cursor en 2 V y lea la corriente. Verifíquelo mediante la ley de Ohm. Coteje el valor en otros puntos tanto positivos como negativos.
 # 4. Video
+
+- https://www.youtube.com/watch?v=XT2PJB10Gek&feature=youtu.be
+
 # 5. Conclusiones
 
 -La energÍa al tener el principio de conservación produce energía de perdidas que siempre se tiene que tener en cuenta en los cálculos a realizar.
@@ -236,6 +239,7 @@ b. El cursor se puede posicionar usado el ratón o las teclas de flecha izquierd
 
 -La potencia en la mayoria de casos tendra potencia de pérdida ya que en casi todos los elementos electricos producen calor y este debe ser considerado en el cálculo final.
 
+-Existe una relación de proporcionalidad entrelas   magnitudes   eléctricas   como   el   voltaje,corriente y la resistencia
 # 6.Bibliografia 
 
 Robbins, A. H. (2008). Análisis de Circuitos Teoria y Practica. Santa Fe-Mexico: Cengage Learning.
