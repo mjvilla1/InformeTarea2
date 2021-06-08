@@ -36,9 +36,6 @@ Objetivo General
 
 ![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%2011-13%20Cap%203.PNG)
 
-![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%201%20Cap%204.PNG)
-
-![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%201-%20Cap%204.PNG)
 
 ![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%201---%20Cap%204.PNG)
 ![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%2017.PNG)
