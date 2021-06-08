@@ -128,6 +128,7 @@ Capitulo 4
 
 ![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%2029_2.PNG)
 ![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%2031_33_2.PNG)
+![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio35.37.39_2.PNG)
 
 51. Mientras el dispositivo del problema 50 opera, otras dos cargas también lo hacen:
 a. un calentador de 4 kW, de forma continua,
