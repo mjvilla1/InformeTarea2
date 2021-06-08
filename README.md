@@ -25,6 +25,22 @@ Objetivo General
 
 # 3. Explicación y Resolución
 
+
+![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio1-Cap%203.PNG)
+
+![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio1-cd%20Cap%203.PNG)
+
+![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%203%20Cap%203.PNG)
+
+![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%205-7-9%20Cap%203.PNG)
+
+![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%2011-13%20Cap%203.PNG)
+
+![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%201%20Cap%204.PNG)
+
+![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%201-%20Cap%204.PNG)
+
+![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%201---%20Cap%204.PNG)
 ![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%2017.PNG)
 ![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio19.PNG)
 ![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%2025.PNG)
