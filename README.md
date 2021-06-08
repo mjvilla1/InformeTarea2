@@ -141,6 +141,12 @@ Capitulo 4
 ![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%203%20Cap%204.PNG)
 
 ![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%203--%20Cap%204.PNG)
+![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%209-11%20Cap%204.PNG)
+![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%2013-15%20Cap%204.PNG)
+![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%2017%20Cap%204.PNG)
+![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%2019%20Cap%204.PNG)
+![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%2021-23%20Cap%204.PNG)
+![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%2025%20%20Cap%204.PNG)
 
 ![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%205-7%20Cap%204.PNG)
 ![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%2029_2.PNG)
