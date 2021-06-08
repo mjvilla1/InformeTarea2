@@ -230,6 +230,22 @@ Los dos valores son distintos por que en la grafica nos muestra como incrementa 
 
 ![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/EJERCICIO%2069.jpeg)
 
+a. E = 40 V, R = 20 Ω
+
+I=2A
+
+d. E =10 V, R = 2.5 MΩ
+
+I=0.000004A
+
+c. V =  200 V, R = 40 kΩ
+
+I=0.005A
+
+e. E = 7.5 V, R = 2.5Ω
+
+I=3A
+
 # 4. Video
 
 - https://www.youtube.com/watch?v=XT2PJB10Gek&feature=youtu.be
