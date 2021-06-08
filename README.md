@@ -239,7 +239,9 @@ b. El cursor se puede posicionar usado el ratón o las teclas de flecha izquierd
 
 -La potencia en la mayoria de casos tendra potencia de pérdida ya que en casi todos los elementos electricos producen calor y este debe ser considerado en el cálculo final.
 
--Existe una relación de proporcionalidad entrelas   magnitudes   eléctricas   como   el   voltaje,corriente y la resistencia
+-Existe una relación de proporcionalidad entrelas   magnitudes   eléctricas   como   el   voltaje,corriente y la resistencia.
+
+- Analizamos la proporcionalidad la corriente electrica y la diferencia de potencial, en donde es directa para elementos óhmicos e indirecta para elementos óhmicos.
 # 6.Bibliografia 
 
 Robbins, A. H. (2008). Análisis de Circuitos Teoria y Practica. Santa Fe-Mexico: Cengage Learning.
