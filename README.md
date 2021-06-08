@@ -28,51 +28,88 @@ Objetivo General
 ![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%2017.PNG)
 ![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio19.PNG)
 ![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%2025.PNG)
-![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%2027.PNG)
-![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%2029.PNG)
-
 33. Un resistor variable de 10kΩ tiene su contacto deslizante(contacto movible b) inicialmente en la terminal inferior c. Determine la Rab entre las terminales a y b, la resistencia Rbc entre las terminales b y c dadas las siguientes condiciones.
-
+     
 a. El contacto deslizante esta en c.
+
+Si el contacto deslizante esta en c la resistencia sera de 10 kΩ 
 
 b. El contacto deslizante está a una quinta parte del trayecto de la superficie resistiva. 
 
+El valor será de 2kΩ 
+
 c. El contacto deslizante está a cuatro quintas partes del trayecto de la superficie resistiva.
+
+El valor será de 8kΩ 
 
 d. El contacto deslizante está en a
 
-35. Dados los resistores con los siguientes códigos de colores (de izquierda a derecha) determine la resistencia, la tolerancia y la confiabilidad de cada componente. Exprese la incertidumbre en porcentaje y en ohms. 
+Cuando el contacto deslizante está en a el valor sera de 0kΩ .óhmetro s
+
+35. Dados los resistores con los siguientes códigos de colores (de izquierda a derecha) determine la resistencia, la tolerancia y la confiabilidad de cada componente. 
 
 a. Café Verde Amarillo Plata
 
+R= 150 kΩ   tolerancia= 10%  Confiabilidad= No proporcionada
+
 b. Rojo Gris Oro Oro Amarillo
+
+R=  2.8 Ω   tolerancia= 5% Confiabilidad= 0.001%
+
 c. Amarillo Violeta Azul Oro
+
+R= 47MΩ    Tolernacia=5% Confiabilidad= No proporcionada
 
 d. Naranja Blanco Negro Oro Rojo
 
+R= 39Ω  Tolerancia=5%    Confiabilidad=0.01%
+
 37. Explique cómo se puede usar un óhmetro para determinar si un foco se fundió. 
 
-39. Explique cómo podría usar un óhmetro para determinar aproximadamente cuánto cable queda en un carrete de alambre de cobre AWG 24. 
+Se puede usar ya que el óhmetro detectara una resistencia infinita al este ser un circuito abierto ya que el filamento del foco se quemo.
+
+
+39. Explique cómo podría usar un óhmetro para determinar aproximadamente cuánto cable queda en un carrete de alambre de cobre AWG 24.
+
+El óhmetro se usaria de la forma en que marque conductividad, y en el punto que deje de detectar conectividad se empieza a medir el numero de vueltas para obtener cuanto cable tenemos.
 
 41. Un termistor tiene las características que se muestran en la figura 3-23.
 
 a. Determine la resistencia del dispositivo a temperatura ambiente, 20°C.
 
+R= 400Ω
+
 b. Determine la resistencia del dispositivo a 40°C. 
+
+R= 200Ω
 
 c. ¿El termistor tiene un coeficiente de temperatura positivo o negativo?
 
-43. Calcula la conductancia de las siguientes resistencias:
+Negativo
+ 
+3. Calcula la conductancia de las siguientes resistencias:
 
 a. 0.25 Ω
+Ω = 2mS
+
+G=1/0.25 Ω = 4S
 
 b. 500 Ω
 
+G=1/500Ω = 2mS
+
 c. 250 kΩ
+
+G=1/250kΩ =4 μS
 
 d. 12.5 MΩ
 
+G=!/12.5 MΩ= 0.8pS
+
 45. Determine la conductancia de 1000 m de alambre de cobre sólido AWG 30 a una temperatura de 20°C.
+
+Para el cobre sólido AWG 30 la resistencai por 1000 pies es de 104 por lo que encontramos la resistencia, 1000 m=3280.84 pies
+conductancia=1/ (104/1000)*3280.82 = 2.93mS
 
 Capitulo 4
 
