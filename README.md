@@ -25,9 +25,7 @@ Objetivo General
 
 # 3. Explicación y Resolución
 
-16. ¿Cuánta corriente será capaz de conducir un alambre de cobre AWG 36?
-
-Un alambre de cobre AWG 36, sería capaz de resistir 414.8, no hay datos de conducción de corriente.
+![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%2017.PNG)
 
 
 33. Un resistor variable de 10kΩ tiene su contacto deslizante(contacto movible b) inicialmente en la terminal inferior c. Determine la Rab entre las terminales a y b, la resistencia Rbc entre las terminales b y c dadas las siguientes condiciones.
