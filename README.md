@@ -27,7 +27,7 @@ Objetivo General
 
 ![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%2017.PNG)
 ![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio19.PNG)
-
+![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%2025.PNG)
 33. Un resistor variable de 10kΩ tiene su contacto deslizante(contacto movible b) inicialmente en la terminal inferior c. Determine la Rab entre las terminales a y b, la resistencia Rbc entre las terminales b y c dadas las siguientes condiciones.
 
 a. El contacto deslizante esta en c.
