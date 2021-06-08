@@ -132,21 +132,11 @@ conductancia=1/ (104/1000)*3280.82 = 2.93mS
 
 Capitulo 4
 
-![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%201%20Cap%204.PNG)
-
-![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%201-%20Cap%204.PNG)
-
-![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%201---%20Cap%204.PNG)
-
-![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%203%20Cap%204.PNG)
-
-![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%203--%20Cap%204.PNG)
-
-![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%205-7%20Cap%204.PNG)
-
 ![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%2029_2.PNG)
-
 ![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%2031_33_2.PNG)
+![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio35.37.39_2.PNG)
+![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio41.43_2.PNG)
+![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%2047.PNG)
 
 51. Mientras el dispositivo del problema 50 opera, otras dos cargas también lo hacen:
 a. un calentador de 4 kW, de forma continua,
@@ -227,28 +217,15 @@ Los dos valores son distintos por que en la grafica nos muestra como incrementa 
 
 ![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Figura%204-33.jpeg)
 
-![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/EJERCICIO%2069.jpeg)
-a. E = 40 V, R = 20 Ω
+71. Haga clic en Coloca (Place) en la barra de menú; haga clic en Componente (Component); de la lista de Grupo (Group), seleccione Básico (Basic), desplácese hacia abajo y haga clic en Interruptor (Switch); seleccione SPDT, entonces haga clic en OK. Coloque en la pantalla y haga doble clic en su símbolo. Cuando la caja de diálogo se abra, seleccione la etiqueta Valor (Value), tecleé la letra A y haga clic en OK. [Esto reetiqueta el interruptor como (A). Presione la tecla A varias veces y observe que el interruptor abre y cierra.] Seleccione un segundo interruptor y etiquételo (B). Agregue una fuente de cd de 12 V y una lámpara. Para agregar la lámpara haga clic en Coloca/Componente (Place/Component) y a partir de la caja de Grupo (Group),seleccione Lámpara_virtual (Virtual_lamp). Arme el circuito de la figura 2-27, opere los interruptores y determine si consiguió exitosamente el control de dos vías. 
 
-I=2A
+73. Repita el problema 70 con PSpice.
 
-d. E = 10 V, R =2.5 MΩ
-
-I=0.000004A
-
-c. V = 200 V, R = 40 kΩ
-
-I=0.005A
-
-e. E = 7.5 V, R = 2.5 Ω
-
-I=3A
-
-
+75. El cursor puede usarse para leer valores desde las gráficas de PSpice. Obtenga la gráfica del problema 74 en la pantalla y:
+a. Haga clic en Trazar (Trace) en la barra de menú, seleccione Cursor, haga
+clic en Despliegue (Display), entonces posicione el cursor en la gráfica y de nuevo haga clic. La lectura del cursor está indicada en la caja en la esquina inferior derecha de la pantalla.
+b. El cursor se puede posicionar usado el ratón o las teclas de flecha izquierda y derecha. Posicione el cursor en 2 V y lea la corriente. Verifíquelo mediante la ley de Ohm. Coteje el valor en otros puntos tanto positivos como negativos.
 # 4. Video
-
-https://youtu.be/XT2PJB10Gek
-
 # 5. Conclusiones
 
 -La energÍa al tener el principio de conservación produce energía de perdidas que siempre se tiene que tener en cuenta en los cálculos a realizar.
