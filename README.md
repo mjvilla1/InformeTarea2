@@ -185,6 +185,8 @@ clic en Despliegue (Display), entonces posicione el cursor en la gráfica y
 de nuevo haga clic. La lectura del cursor está indicada en la caja en la esquina inferior derecha de la pantalla.
 b. El cursor se puede posicionar usado el ratón o las teclas de flecha izquierda y derecha. Posicione el cursor en 2 V y lea la corriente. Verifíquelo mediante la ley de Ohm. Coteje el valor en otros puntos tanto positivos como negativos.
 # 4. Video
+https://youtu.be/XT2PJB10Gek
+
 # 5. Conclusiones
 # 6.Bibliografia 
 
