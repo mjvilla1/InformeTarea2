@@ -28,9 +28,6 @@ Objetivo General
 ![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%2017.PNG)
 ![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio19.PNG)
 ![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%2025.PNG)
-![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%2027.PNG)
-![](https://github.com/mjvilla1/ImagenesTarea2/blob/main/Ejercicio%2029.PNG)
-
 33. Un resistor variable de 10kΩ tiene su contacto deslizante(contacto movible b) inicialmente en la terminal inferior c. Determine la Rab entre las terminales a y b, la resistencia Rbc entre las terminales b y c dadas las siguientes condiciones.
      
 a. El contacto deslizante esta en c.
@@ -121,17 +118,32 @@ a. un calentador de 4 kW, de forma continua,
 b. un calentador de 3.6 kW 12 horas al día. 
 Calcule el costo anual de poner a funcionar todas las cargas.
 
-53. Si hay 24 rebanadas en una barra de pan y se tiene un tostador de dos rebanadas de 1 100 W que tarda 1 minuto y 45 segundos en tostarlas, a $0.13/kWh
+53. Si hay 24 rebanadas en una barra de pan y se tiene un tostador de dos rebanadas de 1 100 W que tarda 1 minuto y 45 segundos en tostarlas, a $0.13/kWh
 ¿cuánto costaría tostar toda la barra?
 
-55. La potencia de salida de un transformador con h  97% es de 50 kW. ¿Cuál
-es la potencia de entrada?
- 
+W=1100W * 0.175h=192.5Wh , consumo de energia =Wh/1000= 192.5Wh/1000=0.1925kWh  la barra costaria 0.02 ctvs
+
+55. La potencia de salida de un transformador con  η = 97% es de 50 kW. ¿Cuáles la potencia de entrada?
+
+η=(Psal/Pent)*100% 
+Pent=50kW(100%/97%)= 51.55kW
+
 57. La potencia de entrada de un dispositivo es de 1 100 W. Si la potencia que se pierde debido a varias ineficiencias es de 190 W, ¿cuál es la eficiencia del dispositivo?
+
+Pent =Psal+Pperdidas Psal= 1100W - 190W =910W 
+
+η=(Psal/(Psal+Ppérdidas))*100%= 82.73%
 
 59. Un motor de cd de 120 V con una eficiencia de 89% demanda 15 A de una fuente. ¿Cuántos caballos de potencia tiene de salida?
 
+η=(Psal/Pent)*100% 
+
+Pent=V*I = 120V * 15 A= 1800W
+
+Psal= (η*Pent)/100% = 1602W
+ 
 61. El sistema de potencia/control de un coche eléctrico se compone de un paquete de baterías incluido de 48 V, una unidad de control/manejo electrónica y el motor (figura 4-40). Si se requieren 180 A de las baterías ¿cuántos caballos de potencia se suministran a la tracción del vehículo? 
+
 
 63. Un motor de cd de 120 V opera una bomba a través de una caja de engranes (figura 4-24). Si la potencia de entrada a la bomba es de 1100 W, la caja de engranes tiene una eficiencia de 75% y la potencia de entrada al motor es de 1600 W, determine los caballos de potencia de salida del motor. 
 
