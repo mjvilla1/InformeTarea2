@@ -5,7 +5,7 @@ Integrantes:César Garnica  -  Jonathan Insuasti -  Melany Villa
 # 1. Objetivos
 Objetivo General
      
-            
+      Analizar los distintos temas de los capítulos 3 y 4 que nos permitirán identificar las diferentes funcionalidades que tiene la ley de Ohm voltaje, resistencia, corriente mediante la realización de ejercicios para poder reforzar el conocimiento adquirido y ponerlo en práctica en la realización de circuitos eléctricos.      
     
     Objetivos Específicos
      - Describir   en   diferentes   instrumentos   su   resistencia   eléctricacorrespondiente 
